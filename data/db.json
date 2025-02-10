@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "e9d7",
+      "username": "kemal",
+      "email": "kemal@hotmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "0918",
+      "username": "aaa",
+      "email": "aaa@hotmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "71f7",
+      "username": "a",
+      "email": "asdfasdf@hotmail.com",
+      "password": "123"
+    },
+    {
+      "id": "d531",
+      "username": "ahmet",
+      "email": "sadfdasf@hotmail.com",
+      "password": "123"
+    }
+  ],
+  "quizResults": [
+    {
+      "id": "a772",
+      "username": "ahmet",
+      "correctAnswers": 2,
+      "totalQuestions": 4,
+      "score": 50,
+      "time": "0 dk 26 sn",
+      "difficulty": "kolay"
+    }
+  ]
+}
